@@ -2,6 +2,7 @@
   <img src="5da3b451-06cc-422e-8e51-7f2913a310f5.png" alt="Tor Relay Project Banner" width="100%">
 </p>
 ### About This Project
+
 This repository documents my hands-on journey operating a Tor relay while studying global routing behavior, traffic engineering, latency stability, and privacy-focused networking design.
 
 
